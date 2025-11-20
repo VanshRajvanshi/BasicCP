@@ -1,5 +1,0 @@
-n=int(input())
-sales=list(map(int,input().split()))
-max_sales=max(sales)
-min_sales=min(sales)
-print(max_sales,min_sales)
